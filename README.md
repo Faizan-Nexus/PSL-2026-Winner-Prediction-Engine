@@ -38,6 +38,6 @@ To predict the 2026 Tournament Winner, the pipeline runs a rigorous simulation:
 3. **Probability Fusion:** Averages the outputs of the PyTorch and ML Ensemble models, normalizing the aggregate points into a final percentage-based Tournament Win Probability.
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/psl-2026-predictor.git`
+1. Clone the repository: `git clone [https://github.com/Faizan-Nexus/PSL-2026-Winner-Prediction-Engine]`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the complete pipeline in Jupyter or Kaggle: `psl_prediction_pipeline.ipynb`
